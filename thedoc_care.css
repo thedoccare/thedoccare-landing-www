@@ -1,0 +1,26 @@
+body {
+    background-color: #068A5C;
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF;
+}
+a{
+    text-decoration: none;
+    color: #d0d0d0;
+}
+a:hover{
+    color: #d0d0d0;
+    text-decoration: underline;
+}
+a:visited{
+    color: #d0d0d0;
+}
+.logo{
+    text-align: center;
+}   
+.sorry{
+    text-align: center;
+    padding: 50px;
+} 
+.footer{
+    text-align: center;
+}  
